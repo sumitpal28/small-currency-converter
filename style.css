@@ -1,0 +1,52 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+#container{
+    height: 11rem;
+    width : 35rem;
+    box-shadow:0 10px 25px rgba(0, 0, 0, 0.5);
+    margin-left: 31rem;
+    margin-top: 13rem;
+    border-radius: 1.5rem;
+    padding-left: 2rem;
+    padding-top: 1rem;
+}
+
+#input{
+    width : 15rem;
+    height: 2rem;
+    margin-top: 1rem; 
+}
+
+
+
+#currency{
+    width : 10rem;
+    height: 2.2rem; 
+}
+
+#button{
+    width : 5rem;
+    height: 2rem;
+    margin-left: 25rem;
+    margin-top: 1rem;
+    background-color : #006CE0;
+    color: white;
+    border: none;
+    border-radius: 0.2rem;
+    font-size: 0.8rem;
+    font-weight: bolder;
+}
+
+#button:hover{
+    background-color: rgb(141, 96, 255);
+}
+
+#result{
+margin-left: 2rem;
+
+}
